@@ -7,7 +7,7 @@ def leap_year():
      else:
          is_leap_year_msg = f'El año {year} no es bisiesto'
      print(is_leap_year_msg)
-leap_year()
+
 #    if (year % 100 == 0) and (year % 400 == 0):
 #        is_leap_year_msg = f'El año {year} es bisiesto'
 #    elif year % 4 == 0 and not(year % 100 == 0):

@@ -18,4 +18,4 @@ def line():
 
     dist = ((coef_x2 - coef_x1)**2 + (punto_y2 - punto_y1)**2)**(1/2)
     print(f'La distancia entre ellos es: {dist}')
-
+line()
